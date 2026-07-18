@@ -70,4 +70,4 @@ Reliable browser infrastructure.
 Built for developers.
 Designed for agents.
 
-![Cykani](cykani-brand-board.png)
+![Cykani](poster.png)
