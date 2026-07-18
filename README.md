@@ -69,3 +69,5 @@ Create the infrastructure platform powering the next generation of browser-nativ
 Reliable browser infrastructure.
 Built for developers.
 Designed for agents.
+
+![Cykani](cykani-brand-board.png)
