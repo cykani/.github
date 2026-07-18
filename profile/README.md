@@ -3,9 +3,8 @@
 Browser infrastructure for AI agents.
 
 Build, run, and scale browser automation with a reliable runtime designed for modern web workflows.
-<p align="center">
-  <img src="poster.png" alt="Cykani" width="100%">
-</p>
+
+![Poster](https://raw.githubusercontent.com/cykani/.github/main/profile/poster.png)
 ---
 
 ## What is Cykani?
