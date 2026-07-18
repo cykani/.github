@@ -58,7 +58,7 @@ Building browser automation in production is hard.
 Cykani handles the browser layer so developers can focus on building products, agents, and workflows.
 
 ---
-
+![Cykani](cykani-brand-board.png)
 ## Vision
 
 Create the infrastructure platform powering the next generation of browser-native AI agents.
