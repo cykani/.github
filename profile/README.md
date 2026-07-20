@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cykani/.github/main/profile/poster.png" width="100%">
+  <img src="https://raw.githubusercontent.com/cykani/.github/main/profile/cykani-org-profile.png" width="100%">
 </p>
 
 <h1 align="center">Cykani</h1>
